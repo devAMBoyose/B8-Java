@@ -3,3 +3,9 @@ public class HelloWorld {
         System.out.println("Hello, B8 Java!");
     }
 }
+
+public class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello, B8 Java!");
+    }
+}
